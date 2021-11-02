@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">غرد</string>
+    <string name="tweet">"خطوات التسجيل في #معسكر_طويق_1000 عن بُعد للمسارات البرمجية المتاحة التسجيل عبر رابط منصة سطر التعليمية: http://satr.codes "</string>
+    <string name="tweete">غرد</string>
+    <string name="tweett">غرد</string>
+</resources>
